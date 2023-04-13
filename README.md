@@ -8,5 +8,5 @@ To create a bulleted list, you can use an asterisk (*) followed by a space, like
 * Item 2
 * Item 3
 
-Markdown files can be easily converted into other formats such as HTML, PDF, or Word documents using various tools and software.
+Markdown files can be easily converted into other formats such as HTML,  PDF, or Word documents using various tools and software.
 Overall, Markdown files are a simple and effective way to create well-formatted documents without the need for complex formatting tools or coding skills.
