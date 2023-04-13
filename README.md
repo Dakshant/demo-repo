@@ -2,9 +2,10 @@
 
 README.md is the default file that GitHub shows at bottom of page.
 
-Some description!!!
+Some description!!!         Hashtag is shortcut for main header.
 
-Hashtag is shortcut for main header.
+# Markdown file definition (subheader)
+
 In a Markdown file, users can use simple text formatting syntax to add headings, lists, bold and italic text, links, and other formatting elements.
 To create a bulleted list, you can use an asterisk (*) followed by a space, like this:
 
